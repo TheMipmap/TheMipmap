@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning Robotics
+- 🌱 I’m currently learning robotics
 - 📫 Reach me at: morten-ks@hotmail.com
