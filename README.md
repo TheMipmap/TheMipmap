@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm @TheMipmap
 
 <!--
 **TheMipmap/TheMipmap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning Robotics
-- 📫 How to reach me: morten-ks@hotmail.com
+- 📫 Reach me at: morten-ks@hotmail.com
