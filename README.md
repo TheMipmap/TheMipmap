@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 🌱 I’m currently learning robotics at Aalborg University
+- 📚 BSc in Robotics
+- 🌱 I’m currently studying Computer Engineering at Aalborg University
 - 📫 Reach me at: morten-ks@hotmail.com
